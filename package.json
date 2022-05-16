@@ -19,16 +19,18 @@
   },
   "homepage": "https://github.com/LastLongerProject/goodtogo_main#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.13",
+    "autoprefixer": "^10.4.7",
+    "browser-sync": "^2.27.9",
     "gulp": "^4.0.2",
     "gulp-add-src": "^1.0.0",
-    "gulp-autoprefixer": "^4.0.0",
     "gulp-concat": "^2.6.1",
-    "gulp-notify": "^3.0.0",
-    "gulp-sass": "^4.0.2",
+    "gulp-notify": "^4.0.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
-    "node-sass": "^4.13.1"
+    "postcss": "^8.4.13",
+    "sass": "^1.51.0"
   },
   "dependencies": {
     "bootstrap-sass": "^3.4.1"
